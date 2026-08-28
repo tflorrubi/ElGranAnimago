@@ -1,45 +1,92 @@
-# El Gran Animago
-Un juego de adivinanza de animales basado en un árbol de decisión inteligente, con identidad visual propia.
+# 🐾 El Gran Animago
 
+Un juego de adivinanza de animales basado en un **árbol de decisión inteligente**, con identidad visual propia.
 
-## Descripción
+---
 
-El Gran Animago es un juego interactivo donde el usuario piensa en un animal y el sistema intenta adivinarlo formulando una serie de preguntas, apoyado en un **árbol de decisión** dinámico. El proyecto fue diseñado y desarrollado de forma individual, cubriendo desde la lógica del motor de decisión hasta la identidad de marca completa.
+## 📖 Descripción
 
-## Características
+**El Gran Animago** es un juego interactivo donde el usuario piensa en un animal y el sistema intenta adivinarlo formulando una serie de preguntas, apoyado en un **árbol de decisión dinámico**.
 
-- Motor de adivinanza basado en árbol de decisión, con lógica de aprendizaje incremental (el árbol se expande con cada partida)
-- Identidad visual propia: paleta morado oscuro/dorado, logo y fondo personalizados
-- Prototipo funcional en HTML, CSS y JavaScript
-- Backend en PHP con persistencia de datos en JSON
-- Documentación técnica completa en formato APA
+El proyecto fue diseñado y desarrollado de forma individual, cubriendo desde la lógica del motor de decisión hasta la identidad visual y experiencia de usuario.
 
-##  Capturas de pantalla
+---
 
-| Pantalla de inicio | Flujo de preguntas | Resultado |Aprendizaje|
-|---|---|---||---|
-| ![Inicio](./imagenes/inicio.png) | ![Preguntas](./imagenes/preguntas.png) | ![Resultado](./imagenes/resultado.png) | | ![Aprendizaje](./imagenes/aprendizaje.png) |
+## ✨ Características
 
-## Stack tecnológico
+* 🧠 Motor de adivinanza basado en un árbol de decisión.
+* 🌱 Lógica de aprendizaje incremental: el árbol se expande con cada partida.
+* 🎨 Identidad visual propia con paleta de colores morado oscuro y dorado.
+* 🖼️ Logo y fondo personalizados.
+* 💻 Prototipo funcional desarrollado en HTML, CSS y JavaScript.
+* ⚙️ Backend desarrollado en PHP.
+* 💾 Persistencia de datos mediante archivos JSON.
+* 📚 Documentación técnica desarrollada bajo normas APA.
 
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** PHP
-- **Almacenamiento:** JSON (árbol de decisión persistente)
+---
 
-##  Documentación
+## 📸 Capturas de pantalla
 
-Este proyecto incluye documentación técnica completa desarrollada bajo normas APA:
-- Anteproyecto (propuesta de proyecto)
-- Documento técnico
-- Plan de negocio con presupuesto estimado
+<table>
+  <tr>
+    <td align="center"><strong>🏠 Pantalla de inicio</strong></td>
+    <td align="center"><strong>❓ Flujo de preguntas</strong></td>
+    <td align="center"><strong>🎯 Resultado</strong></td>
+    <td align="center"><strong>🧠 Aprendizaje</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./imagenes/inicio.png" width="250" alt="Pantalla de inicio">
+    </td>
+    <td align="center">
+      <img src="./imagenes/preguntas.png" width="250" alt="Flujo de preguntas">
+    </td>
+    <td align="center">
+      <img src="./imagenes/resultado.png" width="250" alt="Resultado">
+    </td>
+    <td align="center">
+      <img src="./imagenes/aprendizaje.png" width="250" alt="Aprendizaje">
+    </td>
+  </tr>
+</table>
 
+---
 
-## Aprendizajes clave
+## 🛠️ Stack tecnológico
 
-- Diseño e implementación de estructuras de árbol de decisión desde cero
-- Persistencia de datos sin base de datos relacional (JSON como almacenamiento ligero)
-- Diseño de identidad visual y experiencia de usuario end-to-end, no solo la parte funcional
+| Tecnología     | Uso                                |
+| -------------- | ---------------------------------- |
+| **HTML5**      | Estructura de la aplicación        |
+| **CSS3**       | Diseño e identidad visual          |
+| **JavaScript** | Lógica e interacción del juego     |
+| **PHP**        | Backend y procesamiento            |
+| **JSON**       | Persistencia del árbol de decisión |
 
-## Autor
+---
+
+## 📚 Documentación
+
+Este proyecto incluye documentación técnica completa desarrollada bajo **normas APA**:
+
+* 📄 Anteproyecto — propuesta del proyecto.
+* 📑 Documento técnico.
+* 💼 Plan de negocio con presupuesto estimado.
+
+---
+
+## 🎓 Aprendizajes clave
+
+* Diseño e implementación de estructuras de **árbol de decisión** desde cero.
+* Desarrollo de un sistema de **aprendizaje incremental**.
+* Persistencia de datos utilizando **JSON** sin necesidad de una base de datos relacional.
+* Desarrollo de aplicaciones web utilizando **HTML, CSS, JavaScript y PHP**.
+* Diseño de identidad visual y experiencia de usuario **end-to-end**.
+* Integración entre frontend, backend y almacenamiento de datos.
+
+---
+
+## 👩‍💻 Autor
 
 **Flor Rubi Torres Delgado**
+
+**Ingeniería en Sistemas Computacionales**
