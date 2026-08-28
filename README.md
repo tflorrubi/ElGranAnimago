@@ -1,10 +1,10 @@
-# 🐾 El Gran Animago
+# El Gran Animago
 
 Un juego de adivinanza de animales basado en un **árbol de decisión inteligente**, con identidad visual propia.
 
 ---
 
-## 📖 Descripción
+## Descripción
 
 **El Gran Animago** es un juego interactivo donde el usuario piensa en un animal y el sistema intenta adivinarlo formulando una serie de preguntas, apoyado en un **árbol de decisión dinámico**.
 
@@ -12,27 +12,27 @@ El proyecto fue diseñado y desarrollado de forma individual, cubriendo desde la
 
 ---
 
-## ✨ Características
+## Características
 
-* 🧠 Motor de adivinanza basado en un árbol de decisión.
-* 🌱 Lógica de aprendizaje incremental: el árbol se expande con cada partida.
-* 🎨 Identidad visual propia con paleta de colores morado oscuro y dorado.
-* 🖼️ Logo y fondo personalizados.
-* 💻 Prototipo funcional desarrollado en HTML, CSS y JavaScript.
-* ⚙️ Backend desarrollado en PHP.
-* 💾 Persistencia de datos mediante archivos JSON.
-* 📚 Documentación técnica desarrollada bajo normas APA.
+* Motor de adivinanza basado en un árbol de decisión.
+* Lógica de aprendizaje incremental: el árbol se expande con cada partida.
+* Identidad visual propia con paleta de colores morado oscuro y dorado.
+* Logo y fondo personalizados.
+* Prototipo funcional desarrollado en HTML, CSS y JavaScript.
+* Backend desarrollado en PHP.
+* Persistencia de datos mediante archivos JSON.
+* Documentación técnica desarrollada bajo normas APA.
 
 ---
 
-## 📸 Capturas de pantalla
+## Capturas de pantalla
 
 <table>
   <tr>
-    <td align="center"><strong>🏠 Pantalla de inicio</strong></td>
-    <td align="center"><strong>❓ Flujo de preguntas</strong></td>
-    <td align="center"><strong>🎯 Resultado</strong></td>
-    <td align="center"><strong>🧠 Aprendizaje</strong></td>
+    <td align="center"><strong> Pantalla de inicio</strong></td>
+    <td align="center"><strong> Flujo de preguntas</strong></td>
+    <td align="center"><strong> Resultado</strong></td>
+    <td align="center"><strong> Aprendizaje</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -52,7 +52,7 @@ El proyecto fue diseñado y desarrollado de forma individual, cubriendo desde la
 
 ---
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 | Tecnología     | Uso                                |
 | -------------- | ---------------------------------- |
@@ -64,17 +64,17 @@ El proyecto fue diseñado y desarrollado de forma individual, cubriendo desde la
 
 ---
 
-## 📚 Documentación
+##  Documentación
 
 Este proyecto incluye documentación técnica completa desarrollada bajo **normas APA**:
 
-* 📄 Anteproyecto — propuesta del proyecto.
-* 📑 Documento técnico.
-* 💼 Plan de negocio con presupuesto estimado.
+* Anteproyecto — propuesta del proyecto.
+* Documento técnico.
+* Plan de negocio con presupuesto estimado.
 
 ---
 
-## 🎓 Aprendizajes clave
+## Aprendizajes clave
 
 * Diseño e implementación de estructuras de **árbol de decisión** desde cero.
 * Desarrollo de un sistema de **aprendizaje incremental**.
@@ -85,7 +85,7 @@ Este proyecto incluye documentación técnica completa desarrollada bajo **norma
 
 ---
 
-## 👩‍💻 Autor
+## Autor
 
 **Flor Rubi Torres Delgado**
 
