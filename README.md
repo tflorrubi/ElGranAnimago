@@ -16,8 +16,8 @@ El Gran Animago es un juego interactivo donde el usuario piensa en un animal y e
 
 ##  Capturas de pantalla
 
-| Pantalla de inicio | Flujo de preguntas | Resultado |
-|---|---|---|
+| Pantalla de inicio | Flujo de preguntas | Resultado |Aprendizaje|
+|---|---|---||---|
 | ![Inicio](./imagenes/inicio.png) | ![Preguntas](./imagenes/preguntas.png) | ![Resultado](./imagenes/resultado.png) | | ![Aprendizaje](./imagenes/aprendizaje.png) |
 
 ## Stack tecnológico
