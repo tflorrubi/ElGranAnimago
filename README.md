@@ -14,19 +14,19 @@ El Gran Animago es un juego interactivo donde el usuario piensa en un animal y e
 - Backend en PHP con persistencia de datos en JSON
 - Documentación técnica completa en formato APA
 
-## 🖼️ Capturas de pantalla
+##  Capturas de pantalla
 
 | Pantalla de inicio | Flujo de preguntas | Resultado |
 |---|---|---|
 | ![Inicio](./screenshots/inicio.png) | ![Preguntas](./screenshots/preguntas.png) | ![Resultado](./screenshots/resultado.png) |
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Backend:** PHP
 - **Almacenamiento:** JSON (árbol de decisión persistente)
 
-## 📚 Documentación
+##  Documentación
 
 Este proyecto incluye documentación técnica completa desarrollada bajo normas APA:
 - Anteproyecto (propuesta de proyecto)
@@ -34,7 +34,7 @@ Este proyecto incluye documentación técnica completa desarrollada bajo normas 
 - Plan de negocio con presupuesto estimado
 
 
-## 💡 Aprendizajes clave
+## Aprendizajes clave
 
 - Diseño e implementación de estructuras de árbol de decisión desde cero
 - Persistencia de datos sin base de datos relacional (JSON como almacenamiento ligero)
