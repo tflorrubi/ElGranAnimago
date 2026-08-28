@@ -18,7 +18,7 @@ El Gran Animago es un juego interactivo donde el usuario piensa en un animal y e
 
 | Pantalla de inicio | Flujo de preguntas | Resultado |
 |---|---|---|
-| ![Inicio](./imagenes/inicio.png) | ![Preguntas](./imagenes/preguntas.png) | ![Resultado](./imagenes/resultado.png) |
+| ![Inicio](./imagenes/inicio.png) | ![Preguntas](./imagenes/preguntas.png) | ![Resultado](./imagenes/resultado.png) | | ![Aprendizaje](./imagenes/aprendizaje.png) |
 
 ## Stack tecnológico
 
@@ -40,6 +40,6 @@ Este proyecto incluye documentación técnica completa desarrollada bajo normas 
 - Persistencia de datos sin base de datos relacional (JSON como almacenamiento ligero)
 - Diseño de identidad visual y experiencia de usuario end-to-end, no solo la parte funcional
 
-## 👤 Autor
+## Autor
 
 **Flor Rubi Torres Delgado**
