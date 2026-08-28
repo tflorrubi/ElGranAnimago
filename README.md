@@ -1,6 +1,6 @@
 # El Gran Animago
 Un juego de adivinanza de animales basado en un árbol de decisión inteligente, con identidad visual propia.
-![Banner de El Gran Animago](./screenshots/banner.png)
+![Banner de El Gran Animago](./imagenes/banner.png)
 
 ## Descripción
 
@@ -18,7 +18,7 @@ El Gran Animago es un juego interactivo donde el usuario piensa en un animal y e
 
 | Pantalla de inicio | Flujo de preguntas | Resultado |
 |---|---|---|
-| ![Inicio](./screenshots/inicio.png) | ![Preguntas](./screenshots/preguntas.png) | ![Resultado](./screenshots/resultado.png) |
+| ![Inicio](./imagenes/inicio.png) | ![Preguntas](./imagenes/preguntas.png) | ![Resultado](./imagenes/resultado.png) |
 
 ## Stack tecnológico
 
